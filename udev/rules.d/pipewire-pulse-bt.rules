@@ -1,6 +1,0 @@
-#
-# /etc/udev/rules.d/pipewire-pulse-bt.rules
-#
-# phys: bt controller mac
-# name: bt device name
-SUBSYSTEM=="input",ATTRS{phys}=="94:db:56:d0:c0:c9",ATTR{name}=="Sony WH-1000XM4",ACTION=="add",TAG+="systemd",ENV{SYSTEMD_USER_WANTS}+="pipewire-pulse-bt-switch.service"
