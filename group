@@ -13,7 +13,7 @@ floppy:x:94:
 scanner:x:96:
 power:x:98:
 adm:x:999:daemon
-wheel:x:998:
+wheel:x:998:vin
 kmem:x:997:
 tty:x:5:
 utmp:x:996:
