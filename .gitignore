@@ -69,3 +69,4 @@ NetworkManager/system-connections/
 .updated
 cups/
 printcap
+ssh/ssh_host_*
