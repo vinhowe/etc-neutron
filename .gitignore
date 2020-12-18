@@ -70,3 +70,5 @@ NetworkManager/system-connections/
 cups/
 printcap
 ssh/ssh_host_*
+resolv.conf
+resolv.conf.ovpn3bak
