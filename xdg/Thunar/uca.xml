@@ -85,7 +85,7 @@
     <name xml:lang="sv">Öppna terminal här</name>
     <name xml:lang="te">టెర్మినల్‌ను ఇక్కడ తెరువు</name>
     <name xml:lang="th">เปิดเทอร์มินัลที่นี่</name>
-    <name xml:lang="tr">Uçbirimi Buraya Aç</name>
+    <name xml:lang="tr">Burada Uçbirim Aç</name>
     <name xml:lang="ug">بۇ يەردە تېرمىنالنى ئاچ</name>
     <name xml:lang="uk">Відкрити термінал тут</name>
     <name xml:lang="ur">ٹرمنل یہیں کھولیں</name>
@@ -120,7 +120,7 @@
     <description xml:lang="he">דוגמה של פעולה מותאמת אישית</description>
     <description xml:lang="hr">Primjer prilagođene radnje</description>
     <description xml:lang="hu">Példa egyéni műveletre</description>
-    <description xml:lang="hy">Ընտրովի գործողութեան աւրինակ</description>
+    <description xml:lang="hy">Ընտրովի գործողության օրինակ</description>
     <description xml:lang="hy_AM">Ընտրովի գործողութեան աւրինակ</description>
     <description xml:lang="hye">Ընտրովի գործողութեան աւրինակ</description>
     <description xml:lang="id">Contoh untuk aksi suai</description>
