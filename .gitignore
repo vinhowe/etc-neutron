@@ -75,3 +75,4 @@ resolv.conf.ovpn3bak
 # script to fix vin@neutron.localhost commits (which I'm not sure how exist in the first place)
 # see https://stackoverflow.com/a/750182/1979008
 fix-email.sh
+dyndns.conf
