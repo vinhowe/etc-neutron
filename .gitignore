@@ -76,3 +76,4 @@ resolv.conf.ovpn3bak
 # see https://stackoverflow.com/a/750182/1979008
 fix-email.sh
 dyndns.conf
+nginx/nginx.conf
