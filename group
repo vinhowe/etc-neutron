@@ -43,7 +43,7 @@ systemd-coredump:x:978:
 uuidd:x:68:
 git:x:977:
 dhcpcd:x:976:
-vin:x:1000:
+vin:x:1000:http
 polkitd:x:102:
 rtkit:x:133:
 avahi:x:975:
