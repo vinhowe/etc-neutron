@@ -22,3 +22,4 @@ colord:x:974:974:Color management daemon:/var/lib/colord:/usr/bin/nologin
 geoclue:x:973:973:Geoinformation service:/var/lib/geoclue:/usr/bin/nologin
 openvpn:x:972:972::/home/openvpn:/sbin/nologin
 cups:x:209:209:cups helper user:/:/usr/bin/nologin
+nm-openvpn:x:971:971:NetworkManager OpenVPN:/:/usr/bin/nologin
