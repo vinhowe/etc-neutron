@@ -52,3 +52,4 @@ geoclue:x:973:
 openvpn:x:972:
 cups:x:209:
 nm-openvpn:x:971:
+nx:x:1001:
