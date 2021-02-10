@@ -52,4 +52,4 @@ geoclue:!*::
 openvpn:!::
 cups:!*::
 nm-openvpn:!*::
-nx:!::
+mysql:!::
