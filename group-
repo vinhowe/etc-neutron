@@ -53,3 +53,4 @@ openvpn:x:972:
 cups:x:209:
 nm-openvpn:x:971:
 mysql:x:1002:
+nx:x:1003:

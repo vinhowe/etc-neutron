@@ -53,3 +53,4 @@ openvpn:!::
 cups:!*::
 nm-openvpn:!*::
 mysql:!::
+nx:!::
