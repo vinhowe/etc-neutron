@@ -24,4 +24,4 @@ openvpn:x:972:972::/home/openvpn:/sbin/nologin
 cups:x:209:209:cups helper user:/:/usr/bin/nologin
 nm-openvpn:x:971:971:NetworkManager OpenVPN:/:/usr/bin/nologin
 mysql:x:969:1002::/home/mysql:/bin/bash
-nx:x:968:1003::/var/NX/nx:/bin/false
+nx:x:968:1003::/var/NX/nx:/etc/NX/nxserver

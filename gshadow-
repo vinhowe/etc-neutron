@@ -54,3 +54,6 @@ cups:!*::
 nm-openvpn:!*::
 mysql:!::
 nx:!::
+locate:!*::
+gabe:!::
+shared:!::gabe

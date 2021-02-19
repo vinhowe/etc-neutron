@@ -54,3 +54,6 @@ cups:x:209:
 nm-openvpn:x:971:
 mysql:x:1002:
 nx:x:1003:
+locate:x:21:
+gabe:x:1001:
+shared:x:1004:gabe
